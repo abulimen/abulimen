@@ -15,10 +15,10 @@ Right now, I'm spending most of my time working with PHP, JavaScript, Python and
 - [Timetable Management System](https://github.com/abulimen/timetable-management-system) - A university timetable system that uses constraint solving to automatically create clash-free timetables.
 
 
-- [Class Attendance System](https://github.com/abulimen/assignment-management) - A class attendance system built around Bluetooth Low Energy to make it harder for students to fake attendance.
+- [TrueSign](https://github.com/abulimen/TrueSign) - A class attendance system built around Bluetooth Low Energy to make it harder for students to fake attendance.
 
 
-- [Writing Workspace](https://github.com/abulimen/TrueSign) - A writing workspace that gives lecturers a clearer view of how students actually produced their assignments, especially when AI and group work make the final document harder to judge.
+- [Draftly](https://github.com/abulimen/assignment-management) - A writing workspace that gives lecturers a clearer view of how students actually produced their assignments, especially when AI and group work make the final document harder to judge.
 
 
 - [Offline CBT Platform](https://github.com/abulimen/offline-cbt-showcase) - An offline-first Computer-Based Examination platform for secondary schools with limited network connectivity.
