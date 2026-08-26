@@ -24,7 +24,7 @@ Right now, I'm spending most of my time working with PHP, JavaScript, Python and
 - An offline-first Computer-Based Examination platform for secondary schools with limited network connectivity.
 
 
-I've also built websites for clients, including an e-commerce store and a cleaning service in Italy.
+I've also built an e-commerce website for a client: [Réve Collections](https://revecollections.com).
 
 
 I enjoy projects that force me to figure things out rather than just follow tutorials.
