@@ -58,4 +58,7 @@ I'm still learning, so hopefully this list will look different a year from now.
 - Understanding the systems behind the tools I use
 
 
+I recently made selected projects public for review. Each repository documents its current scope, setup, and known limitations.
+
+
 Have a look around. The repositories below are a better representation of what I can do than this README ;)
