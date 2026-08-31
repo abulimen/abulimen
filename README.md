@@ -2,6 +2,8 @@
 
 I'm a software engineering student who likes building things to solve problems.
 
+Current CGPA: 4.08/5.00
+
 
 Most of my projects start with a problem I've run into myself, something I've seen around me, or a question I couldn't leave alone.
 
